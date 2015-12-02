@@ -1,0 +1,2 @@
+# ThreadPoolCpp
+一个支持Windows和Linux的跨平台线程池
