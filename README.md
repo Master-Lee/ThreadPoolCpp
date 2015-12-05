@@ -3,7 +3,9 @@
 
 #Linux下编译
 $make all
+
 $cd bin/debug
+
 $./tp_test
 
 #Windows 下编译
